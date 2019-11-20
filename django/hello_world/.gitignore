@@ -1,0 +1,6 @@
+.vagrant
+.vscode
+*.sqlite3
+logs/*
+
+__pycache__
